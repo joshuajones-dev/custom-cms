@@ -1,12 +1,20 @@
 # Custom CMS (PHP MVC)
 
-A modular content management system built using a custom MVC framework.
+A modular content management system built using a custom PHP MVC framework.
 
 ## Features
-- MVC architecture (routing, controllers, views)
-- Role-based access control (RBAC)
+- MVC architecture with routing, controllers, and views
 - Dynamic content rendering
-- Modular structure for extensibility
+- Authentication and role-based access control
+- Extensible structure for future modules and features
 
-## Purpose
-This project was built to explore scalable backend application design and clean architecture principles.
+## Notes
+
+This repository contains a simplified and sanitized version of the project. Configuration values, credentials, and environment-specific logic have been removed or replaced for security.
+
+## Architecture Overview
+
+- `app/` contains controllers, models, and views
+- `core/` contains shared framework/bootstrap logic
+- `public/` contains the application entry point and public assets
+- Designed to emphasize maintainability, modularity, and separation of concerns
