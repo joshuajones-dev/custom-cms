@@ -1,0 +1,13 @@
+.env
+*.log
+/vendor/
+/node_modules/
+/cache/
+/tmp/
+/storage/*.key
+/storage/*.pem
+/storage/*.secret
+/config/config.php
+/config/ldap.php
+.DS_Store
+Thumbs.db
