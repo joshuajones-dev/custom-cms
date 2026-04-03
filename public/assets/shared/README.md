@@ -1,0 +1,1 @@
+Contains CSS, JavaScript, images, and other static assets shared across multiple areas of the application.

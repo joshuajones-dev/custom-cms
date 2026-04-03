@@ -1,0 +1,1 @@
+Contains CSS, JavaScript, images, and other static assets used by the administrative interface.

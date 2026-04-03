@@ -1,0 +1,1 @@
+Contains application models responsible for handling data and business logic.

@@ -1,0 +1,1 @@
+Contains controllers responsible for handling application requests and coordinating responses.
